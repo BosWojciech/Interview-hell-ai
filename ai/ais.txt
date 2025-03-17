@@ -1,0 +1,4 @@
+Text Generator:  T5, GPT-2, GPT-Neo, BART
+Text Classification/Sentiment Analysis: BERT, RoBERTa, DistilBERT
+
+
